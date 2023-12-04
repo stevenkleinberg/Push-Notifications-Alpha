@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749768164302",
+    "project_id": "push-notifications-alpha-dd404",
+    "storage_bucket": "push-notifications-alpha-dd404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749768164302:android:32022238f82fe5465be19f",
+        "android_client_info": {
+          "package_name": "com.example.javapushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRyIlNYFfzu0n5pp6cJX7UuoR14LEDF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749768164302:android:8f5bf9139dc26f4d5be19f",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationsalpha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRyIlNYFfzu0n5pp6cJX7UuoR14LEDF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
